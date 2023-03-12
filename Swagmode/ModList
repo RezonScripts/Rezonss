@@ -1,5 +1,5 @@
-ADMINS = {
+swagmins = {
  [333044750] = true,
 }
 
-return ADMINS
+return swagmins

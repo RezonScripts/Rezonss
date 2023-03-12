@@ -1,5 +1,5 @@
-swagmins = {
- [333044750] = true,
+ModIDS = {
+ [0] = true,
 }
 
-return swagmins
+return ModIDS

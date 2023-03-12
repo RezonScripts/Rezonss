@@ -1,5 +1,5 @@
-SWAGMIN = {
+ModIDS = {
  [333044750] = true,
 }
 
-return SWAGMIN
+return ModIDS

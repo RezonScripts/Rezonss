@@ -1,5 +1,5 @@
-ModIDS = {
+ADMINS = {
  [333044750] = true,
 }
 
-return ModIDS
+return ADMINS
